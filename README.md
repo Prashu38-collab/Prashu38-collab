@@ -14,17 +14,4 @@
 
 ⚡ Fun fact: My browser tabs are basically a roadmap of things I want to learn.
 
-<br>
-<table>
-  <tr>
-    <!-- GitHub Streak -->
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=Prashu38-collab&theme=transparent&hide_border=true"
-        alt="GitHub Streak Stats"
-      />
-    </td>
-    
-  </tr>
 
-</table>
