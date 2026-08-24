@@ -8,7 +8,7 @@
 
 💡 Building software that solves real-world problems
 
-💬 Ask me about AI/ML, Backend Development & my projects
+💬 Ask me about AI/ML, Backend Development and my projects
 
 📫 Reach me: prashamsaghimire3@gmail.com
 
