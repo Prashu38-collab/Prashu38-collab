@@ -10,7 +10,7 @@
 
 💬 Ask me about AI/ML, Backend Development and my projects
 
-📫 Reach me: prashamsaghimire3@gmail.com
+📫 Reach me: prashamsaghimire600@gmail.com
 
 ⚡ Fun fact: My browser tabs are basically a roadmap of things I want to learn.
 
