@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prashu38-collab&color=blue&style=flat-square&label=Profile+Views)
 
-🔭 Currently building my portfolio and understanding how things work
+🔭 Currently building my portfolio and understanding how things work in software development and ai
 
 🌱 Learning AI Engineering, Machine Learning, System Design and Backend Development
 
