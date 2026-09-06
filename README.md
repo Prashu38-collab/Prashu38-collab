@@ -15,3 +15,4 @@
 ⚡ Fun fact: My browser tabs are basically a roadmap of things I want to learn.
 
 
+![My GitHub Streak](https://streak-stats.demolab.com/?user=johndoe)
