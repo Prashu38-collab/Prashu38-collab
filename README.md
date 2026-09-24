@@ -4,7 +4,7 @@
 
 🔭 Currently building my portfolio and understanding how things work in software development and ai
 
-🌱 Learning AI Engineering, Machine Learning, System Design and Backend Development
+🌱 Learning AI Engineering, Backend Development, System Design and DevOps 
 
 💡 Building software that solves real-world problems
 
